@@ -1,3 +1,4 @@
+note : STEPファイルはZIPに含まれています
 
 ![image](https://user-images.githubusercontent.com/5852451/116347935-1afeda80-a828-11eb-902e-295dbb11c69a.png)
 
