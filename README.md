@@ -1,2 +1,2 @@
 # cad-data
-STEP,STL
+STEP,IGES,STL
